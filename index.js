@@ -14,6 +14,7 @@ module.exports = {
     'polaris-no-bare-stack-item': require('./lib/rules/polaris-no-bare-stack-item'),
     'prefer-class-properties': require('./lib/rules/prefer-class-properties'),
     'prefer-early-return': require('./lib/rules/prefer-early-return'),
+    'prefer-explicit-local-imports': require('./lib/rules/prefer-explicit-local-imports'),
     'prefer-module-scope-constants': require('./lib/rules/prefer-module-scope-constants'),
     'prefer-twine': require('./lib/rules/prefer-twine'),
     'react-initialize-state': require('./lib/rules/react-initialize-state'),
