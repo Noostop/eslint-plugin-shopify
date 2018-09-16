@@ -34,6 +34,7 @@ module.exports = {
     core: require('./lib/config/core'),
     es5: require('./lib/config/es5'),
     esnext: require('./lib/config/esnext'),
+    'eslint-comments': require('./lib/config/eslint-comments'),
     flow: require('./lib/config/flow'),
     jest: require('./lib/config/jest'),
     jquery: require('./lib/config/jquery'),

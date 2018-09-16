@@ -2,6 +2,16 @@
 
 <!-- ## Unreleased -->
 
+### Added
+* `shopify/eslint-comments` plugin with [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments) rules:
+  - `eslint-comments/no-aggregating-enable`
+  - `eslint-comments/no-duplicate-disable`
+  - `eslint-comments/no-unlimited-disable`
+  - `eslint-comments/no-unused-disable`
+  - `eslint-comments/no-unused-enable`
+  - `eslint-comments/no-restricted-disable` (disabled)
+  - `eslint-comments/no-use` (disabled)
+
 ## [24.0.0] - 2018-08-30
 
 ### Fixed
